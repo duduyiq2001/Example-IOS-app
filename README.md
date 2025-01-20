@@ -28,6 +28,20 @@ Deleting old messages
 Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors
 
 ## App Brainstorming (Step 4)
+favorite apps
+1. spotify
+Personalized Playlists: Daily Mixes, Discover Weekly, and Wrapped keep content fresh and relevant.
+Cross-Device Sync: Seamlessly switches playback between phone, laptop, and smart speakers.
+Collaborative Playlists: Easy sharing and group curation with friends.
+2. Notion
+Customizable Workspaces: Drag-and-drop blocks let me structure notes, wikis, and tasks however I want.
+Real-Time Collaboration: Multiple team members can edit a page at the same time—great for brainstorming.
+Markdown compliance: formats documents in markdown format, easy to paste chatgpt notes
+3. Slack
+Organized Channels: Separates conversations by project or topic, preventing message overload.
+Robust Search: Quickly find old messages, files, or links shared in any channel.
+
+The app I want to build is an AR and AI based shopping companion called FITTLY that harnesses Core ML, Apple Neural Engine( for offline), and AR toolkit  FITTLY scans your exact body dimensions in real time using ARKit with LiDAR. It then generates a lifelike 3D avatar of you to virtually try on clothes, shoes, different hair styles and accessories from top brands in an immersive AR environment. This would allow you to see accurate fit, texture, and draping in real time—no guesswork and no need to go in-person shopping no more. The app’s AI would also utilize multi-model LLMs to  provide personalized style recommendations and suggest size adjustments based on your unique body data and style preference description. Additional features could include social sharing (“Snap & Share” your AR outfits), integration with retail partner catalogs for direct purchase, and a style history tracker, so you can revisit your favorite virtual outfits anytime. By merging advanced computer vision with AR and AI-driven personalization, FITTLY aims to revolutionize online fashion shopping—bringing confident, in-store experiences straight to your living room.
 
 
 ## Notes

@@ -15,18 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
-At the bottom of your README, add a section called App Brainstorming. In this section, you will add the following:
-
-Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
-Example App: Instagram
-Changing the background color of the messages screen
-Deleting old messages
-Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors
-
+https://imgur.com/a/STrCaqG
 ## App Brainstorming (Step 4)
 favorite apps
 1. spotify

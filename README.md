@@ -36,6 +36,9 @@ The app I want to build is an AR and AI based shopping companion called FITTLY t
 ## Notes
 
 Describe any challenges encountered while building the app.
+1. It's a little tricky for me to navigate around the UI of Xcode, but I think I will get the hang of it soon.
+2. There's no built in terminal in Xcode like in Vscode
+3. Thinkering around the storyboard can lead to unexplicable errors sometimes, and they can be hard to debug.
 
 ## License
 
